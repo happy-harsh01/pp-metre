@@ -1,0 +1,3 @@
+# pp-metre
+pp meter just for fun , if you found this inappropriate I am sorry.
+This is a python programm where you can play a pp game, check you pp size and more...
